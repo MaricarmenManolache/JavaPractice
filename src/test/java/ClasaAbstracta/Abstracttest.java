@@ -13,12 +13,12 @@ public class Abstracttest {
         Mari.Executa();
         Mari.Afiseazavarsta(23);
 
-        persoanaItistAbstract Flo= new persoanaItistAbstract("Flo", "FLo");
+        persoanaItistAbstract Flo= new persoanaItistAbstract("Florian", "Florescu");
         Flo.ScrieCod();
         Flo.RuleazaTeste();
         Flo.Afiseazavarsta(37);
 
-        PersoanaIngITAbstract Alex= new PersoanaIngITAbstract("Alex", "Alex");
+        PersoanaIngITAbstract Alex= new PersoanaIngITAbstract("Alex", "Alexandrdu");
         Alex.Executa();
         Alex.Proiecteaza();
         Alex.ScrieCod();
