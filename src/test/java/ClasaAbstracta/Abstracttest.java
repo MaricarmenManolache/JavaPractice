@@ -26,3 +26,9 @@ public class Abstracttest {
         Alex.Afiseazavarsta(72);
     }
 }
+
+
+
+
+
+

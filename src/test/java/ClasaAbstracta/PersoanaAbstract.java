@@ -16,4 +16,8 @@ public abstract class PersoanaAbstract {
        System.out.println("Varsta este "+ varsta);
    }
 
+
 }
+
+
+
